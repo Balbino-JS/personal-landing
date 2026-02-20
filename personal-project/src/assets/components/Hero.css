@@ -1,0 +1,26 @@
+.hero {
+    align-items: center;
+    background: linear-gradient(135deg, #000, #111);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 8%;
+}
+.hero-text h1 {
+    color: #39FF14;
+    font-size: 48px;
+}
+.hero-btn {
+    background: #39FF14;
+    color: black;
+    display: flex;
+    font-weight: bold;margin-top: 20px;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+.hero-images img {
+    border-radius: 15px;
+    margin-left: ;
+    padding: 10px;
+    width: 250px;
+}
