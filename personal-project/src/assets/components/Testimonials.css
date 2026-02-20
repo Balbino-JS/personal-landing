@@ -1,0 +1,15 @@
+.testimonials {
+    background: #000;
+    color: white;
+    padding: 80px 8%;
+}
+.testimonial-cards {
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+.testimonial {
+    background: #111;
+    border-radius: 10px;
+    padding: 10px;
+}

@@ -4,6 +4,7 @@ import './index.css'
 import NavBar from './assets/components/NavBar'
 import Hero from './assets/components/Hero'
 import Services from './assets/components/Services'
+import Testimonials from './assets/components/Testimonials'
 
 
 createRoot(document.getElementById('root')).render(
@@ -11,5 +12,6 @@ createRoot(document.getElementById('root')).render(
     <NavBar />
     <Hero />
     <Services />
+    <Testimonials />
   </StrictMode>,
 )
