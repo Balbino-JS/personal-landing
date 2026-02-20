@@ -1,0 +1,31 @@
+.navbar {
+  align-items: center;
+  background: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 8%;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+.logo {
+  color: #39ff14;
+  font-size: 24px;
+  font-weight: bold;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+}
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+.cta-btn {
+    background: #39ff14;
+    border-radius: 5px;
+    color: #000;
+    font-weight: bold;
+    padding: 10px 20px;
+}
